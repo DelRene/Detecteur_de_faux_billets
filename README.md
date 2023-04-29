@@ -1,4 +1,4 @@
-# Detecteur de faux billets
+# Détecteur de faux billets
 *Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*
 
 ### <ins>Contexte</ins>  
