@@ -12,5 +12,5 @@ Pour réaliser ce travail, nous avons les dimensions (<ins>en mm</ins>) de 1500 
 ces billets sont répartis ainsi :
 >1000 vrais billets  
 >500 Faux billets
-
+ 
 *The analyses performed in this project are in French. If you want a translated version, please contact me on linkedin**
