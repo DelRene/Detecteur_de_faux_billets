@@ -13,6 +13,8 @@ ces billets sont répartis ainsi :
 >1000 vrais billets  
 >500 Faux billets
  
+ [Lien vers la présentation CANVA ==>](https://www.canva.com/design/DAFgcAxU7zc/ifUkvFtnWIQitAOYMyg2RA/view?utm_content=DAFgcAxU7zc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+ 
 *The analyses performed in this project are in French. If you want a translated version, please contact me on linkedin*
 
 Les données :  
