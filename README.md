@@ -5,7 +5,7 @@
 Un client a fait appel à moi pour lui créer un modèle permettant de détecter les faux billets. Le travail comprend 3 grandes parties :
 
 * Une <ins>régression linéaire</ins> pour combler les valeurs manquantes.  
-* Des analyses uni et bi variées des données  
+* Des analyses uni et bi variées des données.  
 * Deux modèles de classification automatique : La <ins>régression logistique</ins> et le <ins>K-means</ins>.
 
 Pour réaliser ce travail, nous avons les dimensions (<ins>en mm</ins>) de 1500 billets.  
