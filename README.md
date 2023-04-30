@@ -1,6 +1,8 @@
 # Détecteur de faux billets
 *Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*
 
+[==>Rapport d'analyse CANVA<==](https://www.canva.com/design/DAFgcAxU7zc/ifUkvFtnWIQitAOYMyg2RA/view?utm_content=DAFgcAxU7zc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+
 ### <ins>Contexte</ins>  
 Un client a fait appel à moi pour lui créer un modèle permettant de détecter les faux billets. Le travail comprend 3 grandes parties :
 
@@ -12,8 +14,6 @@ Pour réaliser ce travail, nous avons les dimensions (<ins>en mm</ins>) de 1500 
 ces billets sont répartis ainsi :
 >1000 vrais billets  
 >500 Faux billets
- 
- [Lien vers la présentation CANVA ==>](https://www.canva.com/design/DAFgcAxU7zc/ifUkvFtnWIQitAOYMyg2RA/view?utm_content=DAFgcAxU7zc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
  
 *The analyses performed in this project are in French. If you want a translated version, please contact me on linkedin*
 
