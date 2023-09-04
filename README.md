@@ -1,5 +1,5 @@
 # Détecteur de faux billets
-*Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*
+*Création d'un modèle de Machine Learning pour détecter des faux billets.*
 
 [==>Rapport d'analyse CANVA<==](https://www.canva.com/design/DAFgcAxU7zc/ifUkvFtnWIQitAOYMyg2RA/view?utm_content=DAFgcAxU7zc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
